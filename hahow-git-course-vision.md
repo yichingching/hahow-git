@@ -1,0 +1,4 @@
+- 課程願景
+  - 工作上會使用到git版本管理專案，不過對於git的資料模型並不了解，大部分都使用相似的指令在做版本管理。因此有時遇到較複雜的merge branch或多次commit所造成的衝突問題常常解決不了，希望透過這堂課程能把git從頭學習一次。當未來遇到不同的衝突問題時可以有獨立解決的能力。
+- Course Expectation
+  - I had used git on my work for many years, but I found that I can't handle with some conflict problems because I did not know the basic data structure about git system. Therefore, I decided to take this class, hope that I can enhance my ability of git from both basic and advanced skills. Also, if I encounter some conflict problems in the future, I can handle it independently.
